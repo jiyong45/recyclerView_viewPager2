@@ -1,0 +1,273 @@
+{
+  "favoriteBrandM": {
+    "title": "RecyclerViewTest",
+    "moreUrl": "",
+    "tabList": [
+      {
+        "tabTitle": "Cat",
+        "moreUrl": "",
+        "list": [
+          {
+            "imgPath": "https://src.hidoc.co.kr/image/lib/2021/1/20/1611132055778_0.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 턱 디테일 데님 조거 팬츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://image.dongascience.com/Photo/2016/09/14750507361195.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 오버사이즈 밴딩 데님 쇼츠",
+            "likeYn": true
+          },
+          {
+            "imgPath": "https://cdn.newspenguin.com/news/photo/202101/3899_12249_529.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 로고 밴딩 롱 와이드 팬츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://src.hidoc.co.kr/image/lib/2021/1/20/1611132055778_0.jpg",
+            "brandNm": "Cat",
+            "goodsNo": "2109400581",
+            "goodsNm": "[My Cat,t]로고 밴딩 롱 와이드 팬츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/4arX/image/rZ1xSXKCJ4cd-IExOYahRWdrqoo.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 로고 밴딩 코듀로이 조거 팬츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://image.dongascience.com/Photo/2016/09/14750507361195.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 리브드 니트 뷔스티에",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://img.huffingtonpost.com/asset/618cc2d026000093123cdf98.jpg?cache=xQWtHHJF1a&ops=scalefit_720_noupscale",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 리브드 니트 뷔스티에",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://newsimg.hankookilbo.com/2019/04/29/201904291390027161_3.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 로고 밴딩 코듀로이 후드 티셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://post-phinf.pstatic.net/MjAyMDAyMjlfMjY4/MDAxNTgyOTU0Nzg3MjQ4.PBMFV4WrSJmeSUJ56c4C7Vkz_SsQlJ1SByKU18kkJh0g.T7mQnadCWVtEZ448AGk_9kG1HFBAzdztXZcBjvSbduwg.JPEG/%EA%B3%A0%EC%96%91%EC%9D%B4_%EB%82%98%EC%9D%B41.jpg?type=w1200",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 스트레치 플리스 모크넥 탑",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://www.chemicalnews.co.kr/news/photo/202106/3636_10174_4958.jpg",
+            "brandNm": "Cat",
+            "goodsNm": "[My Cat.t] 리브드 니트 볼레로",
+            "likeYn": false
+          }
+        ]
+      },
+      {
+        "tabTitle": "Dog",
+        "moreUrl": "",
+        "list": [
+          {
+            "imgPath": "https://s3.ap-northeast-2.amazonaws.com/elasticbeanstalk-ap-northeast-2-176213403491/media/magazine_img/magazine_262/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "에코레더 아웃포켓 자켓",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://images.mypetlife.co.kr/content/uploads/2021/10/19151330/corgi-g1a1774f95_1280-1024x682.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "[MEN] 모터사이클 오버코트",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://cdn.mkhealth.co.kr/news/photo/202108/54607_56591_5215.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "레글런 롱슬리브 티셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/280px-Golde33443.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "베이직 슬랙스",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "레터링 포인트 후드티셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://dimg.donga.com/wps/NEWS/IMAGE/2022/01/28/111500268.2.jpg",
+            "brandNm": "Dog",
+            "goodsNm": "체크패치 후디 숏점퍼",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://cdnweb01.wikitree.co.kr/webdata/editor/202103/02/img_20210302105652_f4642f08.webp",
+            "brandNm": "Dog",
+            "goodsNm": "[ATELIER] 울블랜드 타이포인트 원피스",
+            "likeYn": false
+          }
+        ]
+      },
+      {
+        "tabTitle": "Bear",
+        "moreUrl": "",
+        "list": [
+          {
+            "imgPath": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2010-brown-bear.jpg/640px-2010-brown-bear.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "이글 로고 밴딩 드로즈 3pack",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1024px-2010-kodiak-bear-1.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "이글 로고 밴딩 드로즈 3pack",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "캐시미어 노치트 싱글 코트",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://i.guim.co.uk/img/media/a755adc8dead2440d5ac448a289c6592e176afe8/0_90_5184_3110/master/5184.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3fb2bcec8ce12ed3214dcc8eccb663bc",
+            "brandNm": "Bear",
+            "goodsNm": "[EA7] 로고 장식 폴로 셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://mblogthumb-phinf.pstatic.net/MjAxNzA0MDZfODEg/MDAxNDkxNDU2MjcwNjMz._rXj-pf82jA9n6_6qh_n5Oa6RohMRB0NJ2XVU-NZfn0g.aGZU6XyK2P5lCS2dYIpE2uF7sUdaYWolGyl6oDu7aWEg.JPEG.ten01/daum_gallery_photo_20170406141135.jpg?type=w800",
+            "brandNm": "Bear",
+            "goodsNm": "[EA7] 로고 장식 폴로 셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://images.theconversation.com/files/175247/original/file-20170622-26496-7ff7v5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop",
+            "brandNm": "Bear",
+            "goodsNm": "레귤러 핏 크루넥 울 니트",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://www.thoughtco.com/thmb/ivzSG19pJ7o093IQO_Rw-dpDGjQ=/3867x2175/smart/filters:no_upscale()/getty-brown-bear-56afcf215f9b58b7d01d5195.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "이글 로고 크루넥 맨투맨",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://static.educalingo.com/img/en/800/bear.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "이글 로고 크루넥 맨투맨",
+            "likeYn": false
+          },
+          {
+            "imgPath": "http://cdn.cnn.com/cnnnext/dam/assets/211007211315-01-bear-encounters-restricted.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "슬림 핏 숏 카라 버튼업 셔츠",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://cdn.britannica.com/41/156441-050-A4424AEC/Grizzly-bear-Jasper-National-Park-Canada-Alberta.jpg",
+            "brandNm": "Bear",
+            "goodsNm": "슬림 핏 숏 카라 버튼업 셔츠",
+            "likeYn": false
+          }
+        ]
+      },
+      {
+        "tabTitle": "Tiger",
+        "moreUrl": "",
+        "list": [
+          {
+            "imgPath": "https://img.koreatimes.co.kr/upload/newsV2/images/202201/c96739b8f0f14c4baad9471bf6905eea.jpg/dims/resize/740/optimize",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) SHERMAN PRINT TIGHT TOP atb634w(PINK)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) CARA FAUX LEATHER PATCH COAT awa402w(BROWN)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://cdn.mos.cms.futurecdn.net/E4HKzWfxRuwsNSdtsRbseU.jpg",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMAN) PATCHWORK DENIM PRINT TRUCKER JACKET awa400w(BLUE)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://static.educalingo.com/img/en/800/tiger.jpg",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN)CINDY MAGIC EYE PRINT CRINKLE SHIRT atb628w(MULTI)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNXbOkrcKjYrFowAf2qAtNeAoPcEAiAOK6g&usqp=CAU",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) MORRIS COUROULED SILK SHIRRING BLOUSE atb627w(BLUE)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://static.dw.com/image/57847022_401.jpg",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) ALEXA CORDUROY PUFF BLAZER awa392w(TAN)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTjR3WMc7dYG0Dz-zQTCQzaCf7JC7sF0SkQ&usqp=CAU",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) EMMA RAINBOW KNIT CROP TOP atb643w(RAINBOW)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZa4UtLEKChgtp6e5s_I6OqmPnf2WCbH_EQ&usqp=CAU",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) OPHELIA FLOWER AND LEOPARD DRESS atb641w(PRINT MIXED)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZPmynrsbLhgqamKPirBzYgzt4UWOkhIZ0g&usqp=CAU",
+            "brandNm": "Tiger",
+            "goodsNm": "(WOMEN) HELENA SHIRRING RUFFLED DRESS atb630w(BLACK/PINK)",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpYJLOiXmfeD-Rz3oT9JK2xGqxpwVT11zkQ&usqp=CAU",
+            "brandNm": "Tiger",
+            "goodsNm": "(ESSENTIAL) WOMEN Tiger EMBROIDERY SWEATSHIRT atb691u(MIDNIGHT BLUE)",
+            "likeYn": false
+          }
+        ]
+      },
+      {
+        "tabTitle": "Bird",
+        "moreUrl": "",
+        "list": [
+          {
+            "imgPath": "https://see.news/wp-content/uploads/2020/12/UK_wildbirds-01-robin.jpg",
+            "brandNm": "Bird",
+            "goodsNm": "[정혜인 착용] SS21 Longshirt Buttercream",
+            "likeYn": false
+          },
+          {
+            "imgPath": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/202984001/1200",
+            "brandNm": "Bird",
+            "goodsNm": "SS21 Caftan Dress Almond-milk",
+            "likeYn": false
+          }
+        ]
+      }
+    ]
+  }
+}
