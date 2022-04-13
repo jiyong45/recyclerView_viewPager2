@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_star_black.xml" value="0.1025" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.13405797101449277" />
+        <entry key="app/src/main/res/layout/menu_item.xml" value="0.13405797101449277" />
+        <entry key="app/src/main/res/layout/recycle_item.xml" value="0.2530395136778115" />
       </map>
     </option>
   </component>
